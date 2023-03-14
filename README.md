@@ -1,2 +1,2 @@
-# Transmission-of-Coronavirus-Simulator
-Transmission of Coronavirus Simulator
+# Transmission-of-Coronavirus-Simulation
+Transmission of Coronavirus Simulation
